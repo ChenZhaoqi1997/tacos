@@ -4,7 +4,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;
-import tacos.User;
+import tacos.entity.User;
 import tacos.data.UserRepository;
 
 public class UserRepositoryUserDetailsService implements UserDetailsService {

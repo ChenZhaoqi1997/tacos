@@ -61,10 +61,7 @@
     <orderEntry type="library" name="Maven: org.springframework.data:spring-data-jpa:2.2.6.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.data:spring-data-commons:2.2.6.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-orm:5.2.5.RELEASE" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework:spring-context:5.2.5.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-tx:5.2.5.RELEASE" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework:spring-beans:5.2.5.RELEASE" level="project" />
-    <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.30" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-aspects:5.2.5.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-thymeleaf:2.2.6.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter:2.2.6.RELEASE" level="project" />
@@ -84,7 +81,6 @@
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-web:2.2.6.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-json:2.2.6.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.10.3" level="project" />
-    <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.10.3" level="project" />
     <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-core:2.10.3" level="project" />
     <orderEntry type="library" name="Maven: com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.10.3" level="project" />
     <orderEntry type="library" name="Maven: com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.10.3" level="project" />
@@ -139,5 +135,39 @@
     <orderEntry type="library" name="Maven: org.springframework.security:spring-security-config:5.2.2.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.security:spring-security-core:5.2.2.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.security:spring-security-web:5.2.2.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-hateoas:2.2.6.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.hateoas:spring-hateoas:0.25.0.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-beans:5.2.5.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-context:5.2.5.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.30" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-data-rest:2.2.6.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.data:spring-data-rest-webmvc:3.2.6.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.data:spring-data-rest-core:3.2.6.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.plugin:spring-plugin-core:2.0.0.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.atteo:evo-inflector:1.2.2" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.10.3" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-artemis:2.2.6.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-jms:5.2.5.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-messaging:5.2.5.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.activemq:artemis-jms-client:2.10.1" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.activemq:artemis-core-client:2.10.1" level="project" />
+    <orderEntry type="library" name="Maven: org.jgroups:jgroups:3.6.13.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.activemq:artemis-commons:2.10.1" level="project" />
+    <orderEntry type="library" name="Maven: commons-beanutils:commons-beanutils:1.9.4" level="project" />
+    <orderEntry type="library" name="Maven: commons-collections:commons-collections:3.2.2" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.johnzon:johnzon-core:1.2.3" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-transport-native-epoll:linux-x86_64:4.1.48.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-transport-native-unix-common:4.1.48.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-transport-native-kqueue:osx-x86_64:4.1.48.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-codec-http:4.1.48.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-buffer:4.1.48.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-transport:4.1.48.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-resolver:4.1.48.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-handler:4.1.48.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-codec:4.1.48.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-common:4.1.48.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.activemq:artemis-selector:2.10.1" level="project" />
+    <orderEntry type="library" name="Maven: jakarta.jms:jakarta.jms-api:2.0.3" level="project" />
+    <orderEntry type="library" name="Maven: jakarta.json:jakarta.json-api:1.1.6" level="project" />
   </component>
 </module>

@@ -1,4 +1,4 @@
-package tacos;
+package tacos.entity;
 import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.Date;
